@@ -1,7 +1,7 @@
 # Tonight Autonomous Launch Plan
 
-Status: active overnight/autonomous plan  
-Created UTC: 2026-05-03T08:49:47Z  
+Status: active overnight/autonomous plan
+Created UTC: 2026-05-03T08:49:47Z
 Canonical organization: `Sonic-Forage`
 
 ## Mission
