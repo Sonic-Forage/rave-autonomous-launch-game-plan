@@ -1,7 +1,107 @@
-MIT License
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
 
-Copyright (c) 2026 Mind Expansion Network
+ Copyright (C) 2026 Sonic-Forage / Mind Expander
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the MIT License terms.
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+                            Preamble
+
+  The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
+
+  The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.
+
+  For the complete license text, see: https://www.gnu.org/licenses/gpl-3.0.txt
+
+---
+
+## Additional Terms — Sonic-Forage
+
+### Attribution Requirement
+
+Any fork, derivative, or distribution of this software must:
+
+1. **Retain the original copyright notice** and this license.
+2. **Credit Sonic-Forage** in their README or documentation:
+   > "Built on [Sonic-Forage](https://github.com/Sonic-Forage) — World's First Autonomous DJ Operating System"
+3. **Link back** to the original repository: https://github.com/Sonic-Forage
+
+### Share-Alike
+
+If you modify or extend this software, you must:
+1. Release your modifications under the same GPL v3 license.
+2. Make your source code available to users.
+3. Clearly mark what changes you made from the original.
+
+### What You CAN Do
+
+- ✅ Use it for personal projects
+- ✅ Use it commercially (DJs, venues, festivals, labels)
+- ✅ Modify it for your own needs
+- ✅ Distribute it to others
+- ✅ Build specialized workflows and sell support/services
+- ✅ Create and sell premium content (templates, prompts, agents)
+- ✅ Fork it and build your own ecosystem
+
+### What You MUST Do
+
+- ✅ Keep the license and copyright notice
+- ✅ Credit Sonic-Forage in your project
+- ✅ Open-source any modifications to the core code
+- ✅ Use the same GPL v3 license for derivatives
+
+### What You CANNOT Do
+
+- ❌ Close-source the core code or your modifications
+- ❌ Remove the attribution or license
+- ❌ Claim you wrote the original code
+- ❌ Sue the original authors (see Disclaimer below)
+
+### Premium Content Exception
+
+The following are NOT covered by GPL v3 and may be offered under separate terms:
+- Specialized AI models and fine-tuned weights
+- Premium ComfyUI workflows
+- Custom agent configurations
+- Training datasets
+- Support and consulting services
+
+These may be offered through Patreon, Buy Me a Coffee, or direct purchase.
+The core code remains GPL v3 and always will.
+
+### Disclaimer of Warranty
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+THE AUTHORS ARE NOT LIABLE FOR ANY DAMAGES ARISING FROM USE OF THIS SOFTWARE.
+
+### Harm Reduction Disclaimer
+
+The harm reduction resources in this project are for EDUCATIONAL PURPOSES ONLY.
+They are NOT medical advice. Always consult qualified healthcare professionals.
+If you or someone you know is in crisis, contact:
+- SAMHSA Helpline: 1-800-662-4357
+- DanceSafe: https://dancesafe.org
+- Zendo Project: https://zendoproject.org
+
+In an emergency, call 911 (US) or your local emergency number.
+
+### Experimental Technology Disclaimer
+
+This project uses experimental AI technology including:
+- Autonomous AI agents
+- AI-generated music and content
+- Automated decision-making systems
+
+Use at your own risk. The authors make no guarantees about:
+- Accuracy of AI-generated content
+- Reliability of autonomous operations
+- Fitness for any particular purpose
+- Safety of AI-generated music or recommendations
+
+Always review AI-generated content before publishing or performing.
