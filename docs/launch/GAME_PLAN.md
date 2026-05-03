@@ -6,8 +6,8 @@ Show the world a small but real autonomous launch: a messy high-energy request b
 
 ## The companion artifact
 
-- **Repo:** `TheMindExpansionNetwork/rave-culture-field-guide`
-- **URL:** https://github.com/TheMindExpansionNetwork/rave-culture-field-guide
+- **Repo:** `Sonic-Forage/rave-culture-field-guide`
+- **URL:** https://github.com/Sonic-Forage/rave-culture-field-guide
 - **Verified commit:** `7eb5bf1`
 - **Status:** public GitHub repo created and pushed
 

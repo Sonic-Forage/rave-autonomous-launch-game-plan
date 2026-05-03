@@ -5,7 +5,7 @@
 Created and published:
 
 - **Name:** Rave Culture Field Guide
-- **Repo:** https://github.com/TheMindExpansionNetwork/rave-culture-field-guide
+- **Repo:** https://github.com/Sonic-Forage/rave-culture-field-guide
 - **Commit:** `7eb5bf1 feat: add rave culture field guide`
 
 ## Files created in the field guide
@@ -40,7 +40,7 @@ timeline events: 13
 GitHub remote verification:
 
 ```text
-TheMindExpansionNetwork/rave-culture-field-guide private=false url=https://github.com/TheMindExpansionNetwork/rave-culture-field-guide
+Sonic-Forage/rave-culture-field-guide private=false url=https://github.com/Sonic-Forage/rave-culture-field-guide
 ```
 
 ## What this proves

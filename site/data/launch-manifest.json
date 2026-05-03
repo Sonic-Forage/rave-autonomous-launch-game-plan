@@ -3,8 +3,8 @@
   "created_utc": "2026-05-03T04:52:45Z",
   "status": "public_showcase_plan_with_closed_gates",
   "primary_artifact": {
-    "repo": "TheMindExpansionNetwork/rave-culture-field-guide",
-    "url": "https://github.com/TheMindExpansionNetwork/rave-culture-field-guide",
+    "repo": "Sonic-Forage/rave-culture-field-guide",
+    "url": "https://github.com/Sonic-Forage/rave-culture-field-guide",
     "latest_verified_commit": "7eb5bf1",
     "description": "Educational field guide to rave culture history, PLUR, RAVE Act policy context, harm reduction, and DJ basics."
   },
@@ -35,7 +35,7 @@
     },
     {
       "step": "Publish to GitHub",
-      "proof": "Remote main verified at TheMindExpansionNetwork/rave-culture-field-guide."
+      "proof": "Remote main verified at Sonic-Forage/rave-culture-field-guide."
     }
   ],
   "launch_lanes": [

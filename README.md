@@ -2,13 +2,13 @@
 
 This repo explains the **launch game plan** behind the companion artifact:
 
-**Field guide repo:** https://github.com/TheMindExpansionNetwork/rave-culture-field-guide
+**Field guide repo:** https://github.com/Sonic-Forage/rave-culture-field-guide
 
 The point: let people see not only the finished rave-culture guide, but also **how an autonomous Jimsky/Hermes launch loop turned a messy idea into a public GitHub artifact with docs, art, verification, and a next-step plan.**
 
 ## Live proof deck
 
-GitHub Pages deck: https://themindexpansionnetwork.github.io/rave-autonomous-launch-game-plan/
+GitHub Pages deck: https://sonic-forage.github.io/rave-autonomous-launch-game-plan/
 
 ## What this repo is
 

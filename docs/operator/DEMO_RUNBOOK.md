@@ -8,7 +8,7 @@ Say: “This is an autonomous launch proof. We started with a rough high-energy 
 
 Open:
 
-- https://github.com/TheMindExpansionNetwork/rave-autonomous-launch-game-plan
+- https://github.com/Sonic-Forage/rave-autonomous-launch-game-plan
 
 ### 0:30 — Show the method
 
@@ -23,7 +23,7 @@ Say: “The launch loop is intent capture, skill loading, research, asset genera
 
 Open:
 
-- https://github.com/TheMindExpansionNetwork/rave-culture-field-guide
+- https://github.com/Sonic-Forage/rave-culture-field-guide
 
 Show:
 
