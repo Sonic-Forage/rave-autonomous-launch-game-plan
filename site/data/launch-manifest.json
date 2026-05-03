@@ -1,0 +1,77 @@
+{
+  "name": "Rave Autonomous Launch Game Plan",
+  "created_utc": "2026-05-03T04:52:45Z",
+  "status": "public_showcase_plan_with_closed_gates",
+  "primary_artifact": {
+    "repo": "TheMindExpansionNetwork/rave-culture-field-guide",
+    "url": "https://github.com/TheMindExpansionNetwork/rave-culture-field-guide",
+    "latest_verified_commit": "7eb5bf1",
+    "description": "Educational field guide to rave culture history, PLUR, RAVE Act policy context, harm reduction, and DJ basics."
+  },
+  "what_happened": [
+    {
+      "step": "Interpret messy operator intent",
+      "proof": "User requested a fun full repo covering rave culture, RAVE Act, DJ terminology, and a story image."
+    },
+    {
+      "step": "Load relevant operational skills",
+      "proof": "GitHub repo management, image prompting, planning, verification workflows were used before build."
+    },
+    {
+      "step": "Research and structure the domain",
+      "proof": "History and DJ terminology sources were gathered and summarized."
+    },
+    {
+      "step": "Generate hero art",
+      "proof": "AI hero image created and committed at assets/images/rave-culture-timeline-hero.png in the field guide repo."
+    },
+    {
+      "step": "Build the repo",
+      "proof": "15 tracked files: README, docs, timeline JSON, image asset, verification script, license."
+    },
+    {
+      "step": "Verify locally",
+      "proof": "python3 scripts/verify.py returned VERIFY OK; markdown count 10; timeline events 13."
+    },
+    {
+      "step": "Publish to GitHub",
+      "proof": "Remote main verified at TheMindExpansionNetwork/rave-culture-field-guide."
+    }
+  ],
+  "launch_lanes": [
+    {
+      "lane": "Show the proof",
+      "action": "Open the field guide repo and hero image; show docs/history and docs/dj.",
+      "gate": "open"
+    },
+    {
+      "lane": "Tell the autonomous-build story",
+      "action": "Use this game-plan repo as the public-facing runbook of how the artifact was built.",
+      "gate": "open"
+    },
+    {
+      "lane": "Turn into static mini-site",
+      "action": "Enable GitHub Pages or copy site/index.html into a Pages repo.",
+      "gate": "human_approval_required"
+    },
+    {
+      "lane": "Expand into community starter kit",
+      "action": "Add issues, contribution guide, city chapters, DJ practice examples.",
+      "gate": "human_approval_required"
+    },
+    {
+      "lane": "Paid/outreach/revenue",
+      "action": "No outreach/payment claims from this repo.",
+      "gate": "closed_until_human_yes"
+    }
+  ],
+  "closed_gates": {
+    "public_deploy_outside_github_repo": false,
+    "outreach_sent": false,
+    "payment_link_created": false,
+    "gpu_or_training_job_started": false,
+    "private_media_uploaded": false,
+    "voice_to_shell_enabled": false,
+    "requires_human_approval_for_next_launch_step": true
+  }
+}
