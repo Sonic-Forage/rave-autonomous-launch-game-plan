@@ -1,0 +1,63 @@
+{
+  "schema": "sonic-forage.launch_proof_index.v1",
+  "status": "draft_until_1111_wake_report_verifies",
+  "created_utc": "2026-05-03T08:49:47Z",
+  "requires_human_approval": true,
+  "risky_flags": {
+    "starts_gpu": false,
+    "starts_paid_api": false,
+    "publishes_stream": false,
+    "records_audio": false,
+    "uploads_private_media": false,
+    "downloads_models": false,
+    "starts_training": false,
+    "submits_forms": false,
+    "sends_outreach": false,
+    "creates_payment_link": false,
+    "mutates_cron": false
+  },
+  "proof_claims": [
+    {
+      "claim": "Field guide repo exists under Sonic-Forage",
+      "proof": [
+        "https://github.com/Sonic-Forage/rave-culture-field-guide",
+        "/opt/data/workspace/projects/rave-culture-field-guide/README.md"
+      ]
+    },
+    {
+      "claim": "Launch proof repo exists under Sonic-Forage",
+      "proof": [
+        "https://github.com/Sonic-Forage/rave-autonomous-launch-game-plan",
+        "/opt/data/workspace/projects/rave-autonomous-launch-game-plan/README.md"
+      ]
+    },
+    {
+      "claim": "Community starter kit exists",
+      "proof": [
+        "/opt/data/workspace/projects/rave-culture-field-guide/CONTRIBUTING.md",
+        "/opt/data/workspace/projects/rave-culture-field-guide/.github/ISSUE_TEMPLATE/city_chapter.yml",
+        "/opt/data/workspace/projects/rave-culture-field-guide/docs/community/CITY_CHAPTER_TEMPLATE.md"
+      ]
+    },
+    {
+      "claim": "Video/release prep is drafted but not posted",
+      "proof": [
+        "/opt/data/workspace/projects/rave-autonomous-launch-game-plan/docs/reports/VIDEO_RELEASE_PREP.md"
+      ]
+    },
+    {
+      "claim": "Human approval gates remain closed",
+      "proof": [
+        "/opt/data/workspace/projects/rave-autonomous-launch-game-plan/site/data/human-approval-decision-ledger.json",
+        "/opt/data/workspace/projects/rave-autonomous-launch-game-plan/docs/reports/HUMAN_APPROVAL_DECISION_LEDGER.md"
+      ]
+    }
+  ],
+  "human_only_actions": [
+    "public posting",
+    "video recording/upload",
+    "outreach",
+    "payments/offers",
+    "GPU/video/private media jobs"
+  ]
+}

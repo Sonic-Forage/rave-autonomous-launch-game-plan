@@ -1,0 +1,98 @@
+{
+  "schema": "sonic-forage.launch_approval_ledger.v1",
+  "status": "closed_until_human_yes",
+  "created_utc": "2026-05-03T08:49:47Z",
+  "canonical_org": "Sonic-Forage",
+  "operator_rule": "Silence, sleep, enthusiasm, or schedule pressure is not approval for external launch actions.",
+  "decision_slots": [
+    {
+      "id": "approve_public_posting",
+      "lane": "release/social/newsletter",
+      "default_state": "closed_until_human_yes",
+      "question": "Do you approve posting the final release copy publicly?",
+      "required_human_inputs": [
+        "exact channels",
+        "exact copy",
+        "posting time"
+      ],
+      "blocked_without_approval": [
+        "post to social",
+        "send newsletter",
+        "submit forms"
+      ]
+    },
+    {
+      "id": "approve_video_recording_upload",
+      "lane": "video recording and upload",
+      "default_state": "closed_until_human_yes",
+      "question": "Do you approve recording/uploading the launch video, and where should it go?",
+      "required_human_inputs": [
+        "recording target",
+        "voice/video source rights",
+        "upload destination"
+      ],
+      "blocked_without_approval": [
+        "record private media",
+        "upload video",
+        "go live"
+      ]
+    },
+    {
+      "id": "approve_payment_or_offer",
+      "lane": "payments/offers",
+      "default_state": "closed_until_human_yes",
+      "question": "Do you approve creating payment links or paid offers?",
+      "required_human_inputs": [
+        "price",
+        "platform",
+        "refund/support terms"
+      ],
+      "blocked_without_approval": [
+        "create payment link",
+        "collect money",
+        "claim revenue"
+      ]
+    },
+    {
+      "id": "approve_gpu_video_private_media",
+      "lane": "GPU/video/private media",
+      "default_state": "closed_until_human_yes",
+      "question": "Do you approve a bounded GPU/video/private-media job for this launch?",
+      "required_human_inputs": [
+        "budget/time cap",
+        "input media",
+        "output destination"
+      ],
+      "blocked_without_approval": [
+        "start GPU job",
+        "run Matrix/video workflow",
+        "upload private media"
+      ]
+    },
+    {
+      "id": "approve_outreach",
+      "lane": "DM/email/community outreach",
+      "default_state": "closed_until_human_yes",
+      "question": "Do you approve sending outreach, and to whom?",
+      "required_human_inputs": [
+        "recipient list",
+        "exact message",
+        "send window"
+      ],
+      "blocked_without_approval": [
+        "DM people",
+        "email people",
+        "submit community posts"
+      ]
+    }
+  ],
+  "closed_gates": [
+    "public_posting",
+    "video_recording_upload",
+    "payments",
+    "outreach",
+    "gpu_video_private_media",
+    "secret_exposure",
+    "recursive_cron_creation"
+  ]
+}
