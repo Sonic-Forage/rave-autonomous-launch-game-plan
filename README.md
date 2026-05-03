@@ -6,6 +6,10 @@ This repo explains the **launch game plan** behind the companion artifact:
 
 The point: let people see not only the finished rave-culture guide, but also **how an autonomous Jimsky/Hermes launch loop turned a messy idea into a public GitHub artifact with docs, art, verification, and a next-step plan.**
 
+## Live proof deck
+
+GitHub Pages deck: https://themindexpansionnetwork.github.io/rave-autonomous-launch-game-plan/
+
 ## What this repo is
 
 - A public-safe launch narrative.
